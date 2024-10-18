@@ -3,11 +3,11 @@ import type { Config } from "@docusaurus/types";
 import { themes } from "prism-react-renderer";
 
 const url = new URL(
-  "https://radio-aktywne.github.io/devcontainer-app-litestar",
+  "https://radio-aktywne.github.io/devcontainer-service-litestar",
 );
 
 const config: Config = {
-  title: "app-litestar devcontainer docs",
+  title: "service-litestar devcontainer docs",
   favicon: "favicon.svg?v=1",
 
   url: `${url.protocol}//${url.host}`,
@@ -43,14 +43,14 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: "app-litestar devcontainer docs",
+      title: "service-litestar devcontainer docs",
       logo: {
-        alt: "app-litestar devcontainer docs logo",
+        alt: "service-litestar devcontainer docs logo",
         src: "logo.svg?v=1",
       },
       items: [
         {
-          href: "https://github.com/radio-aktywne/devcontainer-app-litestar",
+          href: "https://github.com/radio-aktywne/devcontainer-service-litestar",
           position: "right",
           className: "header-github-link",
           "aria-label": "GitHub repository",
