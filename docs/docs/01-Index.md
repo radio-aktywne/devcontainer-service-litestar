@@ -3,12 +3,12 @@ slug: /
 title: Index
 ---
 
-# app-litestar devcontainer
+# service-litestar devcontainer
 
-Devcontainer for Litestar apps 🌠
+Devcontainer for Litestar services 🌠
 
 ## 💡 About
 
 This repository contains a [`Dev Container`](https://containers.dev)
-tailored for developing [`Litestar`](https://litestar.dev) apps in
+tailored for developing [`Litestar`](https://litestar.dev) services in
 [`radio-aktywne`](https://github.com/radio-aktywne).

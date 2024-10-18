@@ -1,13 +1,13 @@
 # Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: 0.8.0
+_commit: 0.9.0
 _src_path: gh:radio-aktywne/template-devcontainer
 accountname: radio-aktywne
-description: Devcontainer for Litestar apps 🌠
-devcontainername: app-litestar
+description: Devcontainer for Litestar services 🌠
+devcontainername: service-litestar
 docs: true
-docsurl: https://radio-aktywne.github.io/devcontainer-app-litestar
-imagename: devcontainers/app-litestar
+docsurl: https://radio-aktywne.github.io/devcontainer-service-litestar
+imagename: devcontainers/service-litestar
 registry: true
 releases: true
-reponame: devcontainer-app-litestar
-repourl: https://github.com/radio-aktywne/devcontainer-app-litestar
+reponame: devcontainer-service-litestar
+repourl: https://github.com/radio-aktywne/devcontainer-service-litestar
