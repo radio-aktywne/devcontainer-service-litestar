@@ -7,7 +7,6 @@ Devcontainer for Litestar services 🌠
 [![Lint](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/lint.yaml)
 [![Image](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/image.yaml)
 [![Registry](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/registry.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/registry.yaml)
-[![Docs](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/docs.yaml/badge.svg)](https://github.com/radio-aktywne/devcontainer-service-litestar/actions/workflows/docs.yaml)
 
 </div>
 
@@ -15,14 +14,8 @@ Devcontainer for Litestar services 🌠
 
 ## 💡 About
 
-This repository contains a [`Dev Container`](https://containers.dev)
-tailored for developing [`Litestar`](https://litestar.dev) services in
-[`radio-aktywne`](https://github.com/radio-aktywne).
-
-## 📄 Further Reading
-
-More in-depth documentation can be found
-[here](https://radio-aktywne.github.io/devcontainer-service-litestar).
+`service-litestar` is a [`Dev Container`](https://containers.dev)
+for developing [`Litestar`](https://litestar.dev) services.
 
 ## 💻 Development
 
